@@ -1,0 +1,54 @@
+{
+  "Name": "But Seriously",
+  "Version": "0.1.0",
+  "Factory Info": {
+    "Vendor": "PerceptionLab",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB50724C6242745372",
+      "Category": "Audio Module Class",
+      "Name": "But Seriously",
+      "Vendor": "PerceptionLab",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Fx",
+        "Distortion",
+        "Reverb",
+        "Pitch",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD50724C6242745372",
+      "Category": "Component Controller Class",
+      "Name": "But Seriously",
+      "Vendor": "PerceptionLab",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Fx",
+        "Distortion",
+        "Reverb",
+        "Pitch",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
