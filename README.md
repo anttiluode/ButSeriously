@@ -127,14 +127,21 @@ A real-time **Takens Phase Space scope**:
 ### 1. Clone JUCE
 ```bash
 git clone https://github.com/juce-framework/JUCE.git JUCE
+```
 2. Clone But Seriously
-Bashgit clone https://github.com/yourusername/but-seriously.git
+
+```Bashgit clone https://github.com/yourusername/but-seriously.git
 cd but-seriously
+```
 3. Build
-Bashmkdir build && cd build
+```Bashmkdir build && cd build
 cmake .. -DJUCE_ROOT=../../JUCE
 cmake --build . --config Release
-The resulting VST3 / AU / AAX plugin will appear in the build folder.
+```
+
+The resulting VST3 / AU / AAX plugin will appear in the build folder copy it to VST folder. 
+
+The vst folder as I built it is also available. 
 
 📜 License
 MIT License — feel free to explore, modify, and build upon the phase topology.
