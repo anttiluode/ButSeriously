@@ -4,7 +4,7 @@
 
 Making of video: 
 
-https://www.youtube.com/watch?v=MOcG559EXwE (Sounds good on drums at 28:18)
+https://www.youtube.com/watch?v=MOcG559EXwE (Sounds good on drums at 34:50)
 
 I think the midi goes on from c button? 
 
