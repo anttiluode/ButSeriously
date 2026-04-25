@@ -1,5 +1,7 @@
 # But Seriously 🎛️
 
+![Clockfield Fractal Analysis](./clockfield_fractal_analysis.png)
+
 *A Topological Synthesizer & Bost-Connes Resonator*
 
 **But Seriously** is a completely novel digital signal processing (DSP) audio plugin built in **C++ / JUCE**.
