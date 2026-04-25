@@ -2,6 +2,12 @@
 
 ![Clockfield Fractal Analysis](./clockfield_fractal_analysis.png)
 
+Making of video: 
+
+https://www.youtube.com/watch?v=MOcG559EXwE (Sounds good on drums at 28:18)
+
+I think the midi goes on from c button? 
+
 *A Topological Synthesizer & Bost-Connes Resonator*
 
 **But Seriously** is a completely novel digital signal processing (DSP) audio plugin built in **C++ / JUCE**.
